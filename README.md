@@ -1,9 +1,12 @@
 # kirintool
 Pocs and Exps about Kirin Soc.Tools for unlocking bootloader and flashing images.
 # DISCLAIMER
-Do not use this tool for any commercial behavior.
-Our tool is free forever.I do not accept any donation!!
-For anyone who wants to reuse this tool,please publish your source code!!
+### Do not use this tool for any commercial behavior.
+
+### Our tool is free forever.I do not accept any donation!!
+
+### For anyone who wants to reuse this tool,please publish your source code!!
+
 # Functions we want to support:
 Bootrom exploit
 
