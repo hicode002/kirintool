@@ -1,5 +1,7 @@
 # kirintool
 Pocs and Exps about Kirin Soc.Tools for unlocking bootloader and flashing images.
+
+QQ Group:972822667
 # DISCLAIMER
 ### Do not use this tool for any commercial behavior.
 
