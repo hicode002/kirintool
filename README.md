@@ -23,7 +23,7 @@ Kirin 970 xloader exploit(Bootrom exploit need to bruteforce the address)
 
 Kirin 980 Bootrom exploit
 
-Kirin 810/820/990/990 5g: Xloader encrypted,still trying
+Kirin 810/820/990/990 5g: OK!
 
 Temporary unlock bootloader
 
@@ -42,7 +42,7 @@ Firmware decryption
 
 Fastboot decryption is OK!
 
-Xloader decryption is still trying
+Xloader decryption is OK!
 
 Other firmware decryption can be achieved by patching fastboot,not tested.
 
