@@ -1,0 +1,6 @@
+[submodule "KirinTool.ImageFlahser"]
+	path = KirinTool.ImageFlahser
+	url = https://github.com/hicode002/KirinTool.ImageFlasher.git
+[submodule "KirinTool.ImageFlasher"]
+	path = KirinTool.ImageFlasher
+	url = https://github.com/hicode002/KirinTool.ImageFlasher.git
