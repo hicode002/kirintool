@@ -11,7 +11,13 @@
 using System;
 using System.Reflection;
 
-
+[assembly: System.Reflection.AssemblyCompanyAttribute("KirinTool")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0824f205868f4c832415c8833262b94f6c868e06")]
+[assembly: System.Reflection.AssemblyProductAttribute("KirinTool")]
+[assembly: System.Reflection.AssemblyTitleAttribute("KirinTool")]
+[assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // 由 MSBuild WriteCodeFragment 类生成。
 
