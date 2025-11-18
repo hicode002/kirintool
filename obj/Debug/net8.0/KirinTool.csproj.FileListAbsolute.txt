@@ -1,0 +1,15 @@
+D:\adb tools\kirintool-final\obj\Debug\net8.0\KirinTool.GeneratedMSBuildEditorConfig.editorconfig
+D:\adb tools\kirintool-final\obj\Debug\net8.0\KirinTool.AssemblyInfoInputs.cache
+D:\adb tools\kirintool-final\obj\Debug\net8.0\KirinTool.AssemblyInfo.cs
+D:\adb tools\kirintool-final\obj\Debug\net8.0\KirinTool.csproj.CoreCompileInputs.cache
+D:\adb tools\kirintool-final\obj\Debug\net8.0\KirinTool.sourcelink.json
+D:\adb tools\kirintool-final\bin\Debug\net8.0\KirinTool.exe
+D:\adb tools\kirintool-final\bin\Debug\net8.0\KirinTool.deps.json
+D:\adb tools\kirintool-final\bin\Debug\net8.0\KirinTool.runtimeconfig.json
+D:\adb tools\kirintool-final\bin\Debug\net8.0\KirinTool.dll
+D:\adb tools\kirintool-final\bin\Debug\net8.0\KirinTool.pdb
+D:\adb tools\kirintool-final\obj\Debug\net8.0\KirinTool.dll
+D:\adb tools\kirintool-final\obj\Debug\net8.0\refint\KirinTool.dll
+D:\adb tools\kirintool-final\obj\Debug\net8.0\KirinTool.pdb
+D:\adb tools\kirintool-final\obj\Debug\net8.0\KirinTool.genruntimeconfig.cache
+D:\adb tools\kirintool-final\obj\Debug\net8.0\ref\KirinTool.dll
