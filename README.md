@@ -12,13 +12,21 @@ Pocs and Exps about Kirin Soc.Tools for unlocking bootloader and flashing images
 
 # Functions we want to support:
 PROGRESS:BOOTROM EXPLOIT
+
 XLOADER EXPLOIT
+
 BOOTLOADER UNLOCK(USER)
+
 BOOTLOADER UNLOCK(FBLOCK,older than 659)
+
 BOOTLOADER TEMP UNLOCK AND BOOT
+
 FIRMWARE DECRYPTION
+
 USB DLOAD MODE and EXPLOIT
+
 NVME EDIT
+
 FUTURE: SUPPORT KVM,OEMINFO EDIT
 
 
