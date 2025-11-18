@@ -31,7 +31,11 @@
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "D:\\adb tools\\kirintool-final\\KirinTool.ImageFlasher\\KirinTool.ImageFlasher\\KirinTool.ImageFlasher.csproj": {
+                "projectPath": "D:\\adb tools\\kirintool-final\\KirinTool.ImageFlasher\\KirinTool.ImageFlasher\\KirinTool.ImageFlasher.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -48,6 +52,12 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Windows.Compatibility": {
+              "target": "Package",
+              "version": "[5.0.2, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -66,6 +76,21 @@
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
         }
+      }
+    },
+    "D:\\adb tools\\kirintool-final\\KirinTool.ImageFlasher\\KirinTool.ImageFlasher\\KirinTool.ImageFlasher.csproj": {
+      "restore": {
+        "projectUniqueName": "D:\\adb tools\\kirintool-final\\KirinTool.ImageFlasher\\KirinTool.ImageFlasher\\KirinTool.ImageFlasher.csproj",
+        "projectName": "KirinTool.ImageFlasher",
+        "projectPath": "D:\\adb tools\\kirintool-final\\KirinTool.ImageFlasher\\KirinTool.ImageFlasher\\KirinTool.ImageFlasher.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
       }
     }
   }
