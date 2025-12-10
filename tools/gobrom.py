@@ -79,7 +79,7 @@ if c==d:
     fl=0
     for i in arr1:
         name=i.split(' ')[0]
-        if name=="XLOADER":
+        if "XLOADER" in name:
             fl=1
             continue
         if fl==1:
